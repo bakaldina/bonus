@@ -68,6 +68,21 @@ h4 {
 .image img {
     float: right;
 }
+.address {
+    margin: 25px 0;
+}
+.address img {
+    width: 23px;
+    height: 23px;
+    vertical-align: text-bottom;
+    margin-right: 10px;
+}
+.bold-text {
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 5px;
+}
 /* адаптив */
 
 @media screen and (max-width: 768px) {
